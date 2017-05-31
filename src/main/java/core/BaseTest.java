@@ -22,7 +22,7 @@ public class BaseTest {
 
     @BeforeMethod
     public void login() {
-        driver.get("https://www.tut.by");
+        driver.get("https://www.google.by");
     }
 
     @AfterSuite
